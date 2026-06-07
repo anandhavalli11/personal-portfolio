@@ -49,6 +49,7 @@ node server.js
 3. Open `index.html` in your browser.
 ## Preview
 <img width="1920" height="1080" alt="output png" src="https://github.com/user-attachments/assets/32643b4c-b914-40d8-84bc-4e9ef88abf1a" />
+
 ## Author
 
 Anandha Valli V
